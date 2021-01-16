@@ -2,7 +2,7 @@
 
 This is an python API which allows you to get the transcripts/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require a headless browser, like other selenium based solutions do!
 
-## Install
+## Install (testing)
 
 It is recommended to [install this module by using pip](https://pypi.org/project/youtube-transcript-api/):
 
